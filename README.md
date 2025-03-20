@@ -8,9 +8,9 @@
 | 5    | Feb. 10   | Lab 1: Signal Processing Concepts              | Measurement | Completed   |
 | 6    | Feb. 17   | Lab 2: SNR, Quantization                         | Simulation  | Completed |
 | 7    | Feb. 24   | Lab 2: SNR, Quantization                         | Measurement | Completed       |
-| 8    | Mar. 3    | Lab 3: Sampler Error Modeling and Correction     | Simulation  | In Progress       |
+| 8    | Mar. 3    | Lab 3: Sampler Error Modeling and Correction     | Simulation  | Completed       |
 |      | Spring Break|                                                    |             |             |
-| 9    | Mar. 17   | Lab 3: Sampler Error Modeling and Correction     | Measurement | To Do       |
+| 9    | Mar. 17   | Lab 3: Sampler Error Modeling and Correction     | Measurement | Completed       |
 | 10   | Mar. 24   | Lab 4: Data Conversion Figures of Merit         | Simulation Part I | To Do       |
 | 11   | Mar. 31   | Lab 4: Data Conversion Figures of Merit         | Simulation Part II & Measurement | To Do       |
 | 12   | Apr. 7    | Lab 4: Data Conversion Figures of Merit         | Measurement | To Do       |
