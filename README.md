@@ -11,6 +11,6 @@
 | 8    | Mar. 3    | Lab 3: Sampler Error Modeling and Correction     | Simulation  | Completed       |
 |      | Spring Break|                                                    |             |             |
 | 9    | Mar. 17   | Lab 3: Sampler Error Modeling and Correction     | Measurement | Completed       |
-| 10   | Mar. 24   | Lab 4: Data Conversion Figures of Merit         | Simulation Part I | To Do       |
-| 11   | Mar. 31   | Lab 4: Data Conversion Figures of Merit         | Simulation Part II & Measurement | To Do       |
-| 12   | Apr. 7    | Lab 4: Data Conversion Figures of Merit         | Measurement | To Do       |
+| 10   | Mar. 24   | Lab 4: Data Conversion Figures of Merit         | Simulation Part I | Completed       |
+| 11   | Mar. 31   | Lab 4: Data Conversion Figures of Merit         | Simulation Part II & Measurement | Completed       |
+| 12   | Apr. 7    | Lab 4: Data Conversion Figures of Merit         | Measurement | Completed       |
